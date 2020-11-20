@@ -1,0 +1,16 @@
+PartID,Education,NumAppt,BrainAreaUnderstand_Pre,UnderstandRisks_Pre,BrainAreaTarget_Pre,Anxiety_Pre,Comfort_Pre,Sex,Diagnosis,Condition,BrainAreaUnderstand_Post,UnderstandRisks_Post,BrainAreaTarget_Post,Anxiety_Post,Comfort_Post,IncUnderstanding_Post,IncBrainArea_Post,Communication_Post,Feedback_Post
+Participant ID,What is the highest level of school you have completed or the highest degree you have received?,How many appointments have you previously discussed deep brain stimulation surgery with a provider?,Please rate your level of understanding about your upcoming DBS prodecure. - Do you feel you understand the brain area your deep brain stimulation surgery aims to target?,Please rate your level of understanding about your upcoming DBS prodecure. - Do you feel as if you understand the risks of your upcoming neurosurgery?,Please identify the brain area that your deep brain stimulation surgery aims to target.,Please rate your level of anxiety about your upcoming DBS procedure.,What is your level of comfort with your upcoming DBS procedure?,Sex,Diagnosis,Condition,Please rate your level of understanding about your upcoming DBS prodecure. - Do you feel you understand the brain area your deep brain stimulation surgery aims to target?,Please rate your level of understanding about your upcoming DBS prodecure. - Do you feel as if you understand the risks of your upcoming neurosurgery?,Please identify the brain area that your deep brain stimulation surgery aims to target.,Please rate your level of anxiety about your upcoming DBS procedure.,What is your level of comfort with your upcoming DBS procedure?,Did the educational session help you understand the surgery you will undergo?,Did the educational session help you learn about the area of your brain being targeted by surgery?,Please rate how satisfied you were with the clarity of the communication you experienced during the surgical explanation.,Please give any feedback on what you liked or disliked about the session. Any comments about the session or 3D brain model. Your feedback will be anonymous.
+ED1,5,nan,1,3,0,3,3,M,PD,1,5,5,1,3,4,1,1,5,
+ED2,5,nan,4,4,1,4,4,M,PD,1,5,4,1,4,4,1,1,5,"After hearing all of the different descriptions from multiple different doctors, seeing this brain is the most helpful because i can actually see what is happening. I actually understand now."
+ED5,6,3,4,4,0,4,4,M,Dystonia,1,5,5,1,4,5,1,1,5,"extremely satisfied with the explanation, detailed explanation. They viewed me as a person and not just a case, and my questions were answered very clearly and professionally. The brain model helped me understand tremendously, where and how deep. 
+
+I feel much more prepaired."
+ED6,3,3,3,4,0,2,4,M,PD,0,5,5,1,4,4,1,1,5,N/A
+ED7,6,6,4,3,0,1,2,M,ET,1,4,4,0,1,2,3,1,4,N/A
+ED8,4,3,4,4,0,2,4,F,ET,0,4,5,1,2,4,1,1,5,
+ED9,3,10,4,1,0,5,5,F,PD,0,5,5,1,5,5,1,1,5,I feel like i'm getting the information i need and i am excited because i think it will help my life. I feel comfortable about what i know
+ED10,6,nan,5,5,1,3,3,M,PD,0,4,5,1,3,3,1,2,5,"educational session was clear, comprehensive and well represented"
+ED11,3,3,4,4,0,2,4,M,PD,1,4,5,0,2,4,1,1,5,N/A
+ED12,8,1,5,5,0,3,3,M,PD,0,5,5,0,3,3,1,1,5,
+ED13,5,3,1,4,0,2,3,M,PD,1,4,4,1,2,3,1,1,5,Everybody was very considerate and helpful.
+ED14,5,5,5,5,0,5,1,M,PD,0,5,5,1,5,5,1,1,5,
